@@ -1,0 +1,5 @@
+ name = Raw Options Charts
+description = Este modulo permite pasar las opciones de un arreglo a highcharts a través del modulo Charts de Drupal
+core = 7.x
+package = "Charts"
+version = "7.x-1.0"
